@@ -1,1 +1,2 @@
 # Conversational-ChatBot
+Chatbot is an application which is used as a conversational tool. Today, conversational chatbots are very popular which make use of AI. To make chatbots get the knowledge of what human beings want them to do, deep learning is used. The chatbot would be multi-user and would improve itself by learning through multiple user interactions. There would be some predefined responses to certain questions which are common.
